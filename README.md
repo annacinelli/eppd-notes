@@ -1,2 +1,2 @@
 # eppd-notes
-Appunti del corso di 'Elementi di Fisiologia, Fisiopatologia e Diagnostica'
+Appunti del corso 'Elementi di Fisiologia, Fisiopatologia e Diagnostica'
